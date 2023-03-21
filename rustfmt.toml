@@ -1,0 +1,5 @@
+# Note: these properties need to match threatx-common/rustfmt.toml,
+#   otherwise rustfmt will update the submodule checkout.
+use_field_init_shorthand = true
+use_try_shorthand = true
+newline_style = "Unix"
